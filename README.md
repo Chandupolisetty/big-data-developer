@@ -1,7 +1,7 @@
 # big-data-developer
 
 # Chandu
-![image](image.png)
+![image](image.jpg)
 ## Current
 I am currently in my last semester on my Masters in Applied Computer Science, I have taken Graduate Directed Project - II and Big Data for this final semester and I am pretty sure that I am going to learn a lot of new things in this semester.
 
